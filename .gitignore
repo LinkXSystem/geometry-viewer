@@ -10,3 +10,5 @@ Thumbs.db
 /app/app.js
 /app/renderer.js
 /app/**/*.map
+
+.vscode
