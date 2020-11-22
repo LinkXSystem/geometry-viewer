@@ -2,7 +2,7 @@
   "name": "geometry-viewer",
   "productName": "Geometry Viewer",
   "description": "this is viewer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "author": "zhi <linkxsystem@gmail.com>",
   "copyright": "© 2020, LinkXSystem inc.",
